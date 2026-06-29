@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit cache and local settings
+.streamlit/
+
+# Optional: uncomment to keep trained artifacts out of git
+# *.pkl
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pkl
+# Remove the line above if you want to commit trained model artifacts.

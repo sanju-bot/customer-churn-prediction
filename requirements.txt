@@ -1,0 +1,15 @@
+numpy
+scikit-learn
+xgboost
+shap
+streamlit
+matplotlib
+joblibnumpy
+scikit-learn
+xgboost
+shap
+streamlit
+matplotlib
+joblib
+# Optional in a normal environment, but omitted from the runtime path because this workspace blocks the pandas binary.
+# pandas
